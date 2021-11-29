@@ -1,3 +1,4 @@
 {
-    "list-items": ["first", "second", "third"]
+	"list-items": ["first", "second", "third"],
+	"todos": [{ "id": 1, "description": "do this", "isDone": false }]
 }
